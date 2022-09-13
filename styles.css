@@ -80,3 +80,9 @@ p {
   background-color: var(--white);
   color: var(--black);
 }
+
+@media screen and (max-width: 600px) {
+  .input-area {
+    width: 65%;
+  }
+}
